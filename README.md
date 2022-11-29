@@ -19,8 +19,13 @@ For advaced users, We also propose:
 References:
 
  [1] The microbial metabolite p-Cresol induces autistic-like behaviors in mice by remodeling the gut microbiota. Patricia Bermudez-Martin et al.
+ 
  [2] Gut Microbiota Regulate Motor Deficits and Neuroinflammation in a Model of Parkinson's Disease. Timothy R Sampson et al.
+ 
  [3] 16S rRNA Gene Sequencing for identification, classification and quantitation of microbes
+ 
  [4] Reproducible, interactive, scalable and extensible microbiome data science using QIIME 2. Evan Bolye et al.
+ 
  [5] Cutadapt
+ 
  [6] Kraken 2
