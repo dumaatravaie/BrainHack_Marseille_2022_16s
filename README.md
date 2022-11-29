@@ -16,7 +16,8 @@ For advaced users, We also propose:
     To understand the importance of reproducibility of the results
 
 
-References
+References:
+
  [1] The microbial metabolite p-Cresol induces autistic-like behaviors in mice by remodeling the gut microbiota. Patricia Bermudez-Martin et al.
  [2] Gut Microbiota Regulate Motor Deficits and Neuroinflammation in a Model of Parkinson's Disease. Timothy R Sampson et al.
  [3] 16S rRNA Gene Sequencing for identification, classification and quantitation of microbes
